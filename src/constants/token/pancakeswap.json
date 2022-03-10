@@ -1,0 +1,70 @@
+{
+  "name": "tropicalfinance",
+  "timestamp": "2021-12-14T14:41:29.665Z",
+  "version": {
+    "major": 1,
+    "minor": 3,
+    "patch": 1
+  },
+  "tags": {},
+  "logoURI": "/images/coins/wbch.png",
+  "keywords": ["pancake", "default"],
+  "tokens": [
+    {
+      "name": "Tropical Finance Token",
+      "symbol": "DAIQUIRI",
+      "address": "0x24d8d5Cbc14FA6A740c3375733f0287188F8dF3b",
+      "chainId": 10000,
+      "decimals": 18
+    },
+    {
+      "name": "Wrapped BCH",
+      "symbol": "WBCH",
+      "address": "0x3743eC0673453E5009310C727Ba4eaF7b3a1cc04",
+      "chainId": 10000,
+      "decimals": 18
+    },
+    {
+      "name": "FlexUSD",
+      "symbol": "FLEXUSD",
+      "address": "0x7b2B3C5308ab5b2a1d9a94d20D35CCDf61e05b72",
+      "chainId": 10000,
+      "decimals": 18
+    },
+    {
+      "name": "BCHPad",
+      "symbol": "BPAD",
+      "address": "0x9192940099fDB2338B928DE2cad9Cd1525fEa881",
+      "chainId": 10000,
+      "decimals": 18
+    },
+    {
+      "name": "FATCATs",
+      "symbol": "FATCAT",
+      "address": "0xF4b10fcC5C22C9E6746a8f4DAc07A59e79ef947A",
+      "chainId": 10000,
+      "decimals": 18
+    },
+    {
+      "name": "LAW",
+      "symbol": "LAW",
+      "address": "0x0b00366fBF7037E9d75E4A569ab27dAB84759302",
+      "chainId": 10000,
+      "decimals": 18
+    },
+    {
+      "name": "DAO",
+      "symbol": "DAO",
+      "address": "0xca0235058985fcc1839e9e37c10900a73c126708",
+      "chainId": 10000,
+      "decimals": 7
+    },
+    {
+      "name": "CELERY",
+      "symbol": "CLY",
+      "address": "0x7642Df81b5BEAeEb331cc5A104bd13Ba68c34B91",
+      "chainId": 10000,
+      "decimals": 18
+    }
+  ]
+}
